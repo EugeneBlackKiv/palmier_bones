@@ -103,7 +103,7 @@ export class OffersCard extends HTMLElement {
           <palmier-sec class="palmiersec"></palmier-sec>
           <img
             class="product_image"
-            src="../images/product_image.webp"
+            src="./images/product_image.webp"
             alt=""
             srcset=""
           />
